@@ -1,0 +1,31 @@
+/* General Styles */
+/*button*/
+
+/*logo*/
+#navbar {
+    background-color: white !important;
+}
+#navbar .logo {
+    width: 50px;
+}
+/* Style the hero section */
+.hero {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+        url("../images/hero1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center 50px; /*moves down*/
+    color: #ffebd4;
+    padding: 8rem 0;
+}
+/*Footer*/
+footer {
+    background-color: black;
+    color: white;
+}
+#footer .social-links i {
+    color: white;
+    font-size: 1.9rem;
+    transition: color 0.3s ease-in-out;
+}
