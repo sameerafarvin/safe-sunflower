@@ -8,6 +8,11 @@
 #navbar .logo {
     width: 50px;
 }
+
+/* Add overflow-x hidden to prevent horizontal scrolling */
+header {
+    overflow-x: hidden;
+}
 /* Style the hero section */
 .hero {
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
