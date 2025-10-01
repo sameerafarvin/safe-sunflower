@@ -14,11 +14,22 @@
 body {
     font-family: var(--primary-font);
 }
-h1,
+h1 {
+    font-family: var(--secondary-font);
+    color: var(--secondary-color);
+}
 h2,
 h3 {
     font-family: var(--secondary-font);
-    color: var(--secondary-color);
+    color: var(--primary-color);
+}
+/*.text-justify {
+    text-align: justify;
+}*/
+.custom-img {
+    height: 400px; /* desired height */
+    object-fit: cover; /* preserves aspect ratio & crops if needed */
+    border-radius: 20px;
 }
 
 /*button*/
