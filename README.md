@@ -129,16 +129,17 @@ For the most part, utilising the [Bootstrap Framework](https://getbootstrap.com/
 
 Here is what the website looks like on different screens:
 
-**Desktop**
+## Desktop Screenshot
 
-![Responsiveness](assets/images/readme-images/responsive-desktop.png)
+![Responsiveness](assets/images/readme-images/desktopscreenshot.png)
 
-**Ipad**
+## Ipad Screenshot
 
-![Responsiveness](assets/images/readme-images/responsive-ipad.png)
+![Responsiveness](assets/images/readme-images/ipadscreenshot.png)
 
-**Mobile**
-![Responsiveness](assets/images/readme-images/responsive-mobile.png)
+## Mobile Screenshot
+
+![Responsiveness](assets/images/readme-images/mobilescreenshot.png)
 
 ## Deployment
 
@@ -165,7 +166,8 @@ I tested and debugged the site regularly throughout the process, mainly using De
 ### Validator Testing
 
 [HTML Validation](https://validator.w3.org/)
-There is still a warning, but there are no errors in HTML
+
+-There are no errors and warning in HTML
 
 ![HTML testing](assets/images/readme-images/html-validation.png)
 
