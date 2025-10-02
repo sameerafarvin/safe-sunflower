@@ -86,7 +86,6 @@ header {
         url("../images/hero1_converted.webp");
     background-size: cover;
     background-repeat: no-repeat;
-    /* background-attachment: fixed;*/
     background-position: center 50px; /*moves down*/
     color: #ffebd4;
     padding: 8rem 0;
