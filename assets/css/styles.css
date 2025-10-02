@@ -16,6 +16,9 @@ body {
     font-family: var(--primary-font);
     padding-top: 50px;
 }
+.navbar-custom .nav-link.active {
+    font-weight: bold;
+}
 .section {
     padding-top: 4rem;
 }
@@ -34,9 +37,7 @@ h3 {
 p {
     font-family: var(--primary-font);
 }
-/*.text-justify {
-    text-align: justify;
-}*/
+
 .custom-img {
     height: 400px; /* desired height */
     object-fit: cover; /* preserves aspect ratio & crops if needed */

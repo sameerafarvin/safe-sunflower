@@ -34,6 +34,7 @@ The live project can found here: <a href="https://sameerafarvin.github.io/safe-s
 ## User Stories
 
 The user stories for this project as well as their acceptance criteria and tasks can be found in the <a href="https://github.com/users/sameerafarvin/projects/3" target="_blank">project board</a>.
+-visitor(Children, Parents,Gaurdians)
 
 -   As a First-Time Visitor of the page, I need easy navigation and a user-friendly design, including a responsive layout for my device, so I can find information quickly and efficiently without frustration.
 -   As a visitor, I want a clear introduction to safeguarding so that I can immediately understand the importance of the topic.
@@ -46,10 +47,11 @@ The user stories for this project as well as their acceptance criteria and tasks
 ## Colors
 
 I used a black and white color palette throughout the website to match the black background of the hero section. For the content, I applied specific colors to highlight key areas:
-• Red background headings for the "Signs to Watch For" section, representing danger and the importance of paying attention.
-• Dark yellow headings for the "How to Respond" section, symbolizing caution and warning.
-• Green headings for the "Action Steps" section, representing success and positive outcomes.
-These colors were chosen intentionally to guide the user’s understanding: red for danger, dark yellow for warning, and green for taking safe, successful action.
+
+-   Red background headings for the "Signs to Watch For" section, representing danger and the importance of paying attention.
+-   Dark yellow headings for the "How to Respond" section, symbolizing caution and warning.
+-   Green headings for the "Action Steps" section, representing success and positive outcomes.
+    These colors were chosen intentionally to guide the user’s understanding: red for danger, dark yellow for warning, and green for taking safe, successful action.
 
 # Fonts
 
@@ -62,7 +64,7 @@ I wanted to select an appropriate image for the hero image that conveyed an imme
 
 I mainly relied on [Font-Awesome](https://fontawesome.com/) icons so I didn't include many pictures in this project but I would like to encorporate more in future developments.
 
-However, I used [Canva](https://www.canva.com/) to generate the logo for my website which is incorporated into my design as the favicon, the navbar, and the call to action button. The colours are also used as part of the colour palette for the website.
+However, I used [Canva](https://www.canva.com/) to generate the logo for my website which is incorporated into my design as the favicon and the navbar
 
 I chose a sunflower as the logo for the child safeguarding website. The sunflower represents warmth, care, and protection — qualities that reflect the mission of safeguarding. Just as sunflowers naturally turn towards the sun for growth and safety, the logo symbolizes creating a safe and nurturing environment where children can thrive.
 ![Logo](assets/images/readme-images/logo-ss.jpg)
@@ -72,6 +74,7 @@ I chose a sunflower as the logo for the child safeguarding website. The sunflowe
 The wireframes for this project have been created using [Balsamiq](https://balsamiq.com/). They show the key features that guided me in creating my website, ensuring responsiveness across different screen sizes.
 
 **Mobile Wireframe**
+
 ![Mobile Wireframe1](assets/images/readme-images/index-all-screen.png)
 ![Mobile Wireframe2](assets/images/readme-images/smart-view.png)
 
@@ -81,7 +84,8 @@ The wireframes for this project have been created using [Balsamiq](https://balsa
 ![Tablet Wireframe2](assets/images/readme-images/ipad-view.png)
 
 **Desktop Wireframes**
-![Desktop Wireframe 1](assets/images/readme-images/index.all.screen.png)
+
+![Desktop Wireframe 1](assets/images/readme-images/index-all-screen.png)
 ![Desktop Wireframe 2](assets/images/readme-images/desktop-view.png)
 
 ## Features
@@ -95,6 +99,10 @@ Beneath it, a subheading provides a clear and supportive message to introduce th
 This design immediately conveys warmth and safety while guiding users toward the support they may need.
 
 ![Hero-image](assets/images/readme-images/hero.webp)
+
+## About Section
+
+The About section includes a paragraph introducing the Safe Sunflower mission. It explains the website’s purpose of promoting child safeguarding, raising awareness, and offering guidance to ensure every child is protected and supported.
 
 ## Info Section
 
@@ -119,11 +127,17 @@ The form contains fields for the user’s name, email address, and message, alon
 
 For the most part, utilising the [Bootstrap Framework](https://getbootstrap.com/docs/5.3/getting-started/introduction/) allowed me to implement a responsive design fairly easily.
 
-However, there were some occasions where the responsiveness just wasn't quite right which required experimenting and troubleshooting, especially with the help of AI. There are still some awkward elements but the site does function responsively to different screen sizes.
-
 Here is what the website looks like on different screens:
+
+**Desktop**
+
 ![Responsiveness](assets/images/readme-images/responsive-desktop.png)
+
+**Ipad**
+
 ![Responsiveness](assets/images/readme-images/responsive-ipad.png)
+
+**Mobile**
 ![Responsiveness](assets/images/readme-images/responsive-mobile.png)
 
 ## Deployment
