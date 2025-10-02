@@ -66,6 +66,7 @@ p {
     background-color: var(--highlight-color);
     color: white;
 }
+
 /*logo*/
 #navbar {
     background-color: white !important;
@@ -81,7 +82,7 @@ header {
 /* Style the hero section */
 .hero {
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-        url("../images/hero1.png");
+        url("../images/hero1_converted.webp");
     background-size: cover;
     background-repeat: no-repeat;
     /* background-attachment: fixed;*/
