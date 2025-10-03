@@ -189,11 +189,9 @@ No errors with CSS
 
 ### Lighthouse
 
-Overall score of 93 in Lighthouse testing
+Overall score of 97 in Lighthouse testing
 
-The Best Practises score of 79 is something I would need to look at in further development of the project.
-
-![Lighthouse testing](assets/images/readme-images/lighthouse-score.png)
+![Lighthouse testing](assets/images/readme-images/ss-lighthouse-score.png)
 
 **AI Implementation and Orchestration**
 Use Cases and Reflections:
